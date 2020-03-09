@@ -1,0 +1,3 @@
+Esse é o outro texto com outras informações para o segundo arquivo
+
+Segundo branch editou esse arquivo
